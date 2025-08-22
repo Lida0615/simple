@@ -47,27 +47,3 @@ nav {
         }
     }
 }
-@media(max-width: 1000px){
-
-
-header{
-    background: red;
-}
-
-
-}
-@media(max-width: 768px){
-
-nav{
-
-    ul{
-        flex-direction: column;
-        gap: 0;
-        order: -1;
-        margin-left: initial;
-    }
-}
-
-
-
-}
